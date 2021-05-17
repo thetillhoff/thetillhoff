@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Till Hoffmann 👋
 
-<!--
-**thetillhoff/thetillhoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My pronouns are `he/him`.
 
-Here are some ideas to get you started:
+🕒 I’m currently working on [my master thesis about infrastructure in a cloud-native world](https://github.com/thetillhoff/master-thesis).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ Things I'm passionate about:
+- All sorts of automation
+- My home-lab
+- My motorcycle from 1980
+- Cooking
+
+🌱 I believe in constant improvements.
+
+💬 Ask me about my particular dislike for javascript and why I'm trying to circumvent using it whenever possible.
