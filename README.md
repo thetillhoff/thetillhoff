@@ -2,7 +2,7 @@
 
 My pronouns are `he/him`.
 
-🕒 I’m currently working on [my master thesis about infrastructure in a cloud-native world](https://github.com/thetillhoff/master-thesis).
+🕒 I’m currently working on [my master thesis about extending infrastructure-as-code to bare-metal](https://github.com/thetillhoff/master-thesis).
 
 ❤️ Things I'm passionate about:
 - All sorts of automation
