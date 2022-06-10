@@ -2,11 +2,11 @@
 
 My pronouns are `he/him`.
 
-🕒 I’m currently working on [my master thesis about extending infrastructure-as-code to bare-metal](https://github.com/thetillhoff/master-thesis).
+🕒 I’m currently working on [my infrastructure](https://github.com/thetillhoff/infra).
 
 ❤️ Things I'm passionate about:
 - All sorts of automation
-- My home-lab
+- My infrastructure
 - My motorcycle from 1980
 - Cooking
 
