@@ -8,7 +8,7 @@ My pronouns are `he/him`.
 - All sorts of automation
 - My infrastructure
 - My motorcycle from 1980
-- Cooking
+- Efficiency
 
 🌱 I believe in constant improvements.
 
