@@ -1,14 +1,12 @@
-# Hi there, I'm Till Hoffmann 👋
+# Hi there, I'm Till 👋
 
-My pronouns are `he/him`.
-
-🕒 I’m currently working on [my infrastructure](https://github.com/thetillhoff/infra).
+🕒 I’m currently working on [a static site generator](https://github.com/thetillhoff/temingo).
 
 ❤️ Things I'm passionate about:
-- All sorts of automation
-- My infrastructure
-- My motorcycle from 1980
 - Efficiency
+- Automate all the things
+- Communication is key
+- Building cool things
 
 🌱 I believe in constant improvements.
 
