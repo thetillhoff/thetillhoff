@@ -1,8 +1,8 @@
 # Hi there, I'm Till 👋
 
-🕒 I’m currently working on [a static site generator](https://github.com/thetillhoff/temingo).
+🕒 I’m currently working on [a web scanner (dns, ip, port, tls, ...](https://github.com/thetillhoff/webscan).
 
-❤️ Things I'm passionate about:
+💜 Things I'm passionate about:
 - Efficiency
 - Automate all the things
 - Communication is key
