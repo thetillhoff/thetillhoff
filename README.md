@@ -1,6 +1,6 @@
 # Hi there, I'm Till 👋
 
-🕒 I’m currently working on [a web scanner (dns, ip, port, tls, ...](https://github.com/thetillhoff/webscan).
+🕒 I’m currently working on [a web scanner (dns, ip, port, tls, ...)](https://github.com/thetillhoff/webscan).
 
 💜 Things I'm passionate about:
 - Efficiency
