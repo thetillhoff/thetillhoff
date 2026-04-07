@@ -4,12 +4,10 @@
 
 💜 Things I'm passionate about:
 - Efficiency
-- Automate all the things
-- Communication is key
-- Building cool things
+- Automating all the things
+- Communication
+- Building tech & tech teams
 
 🌱 I believe in constant improvements.
 
 💬 Ask me about my particular dislike for javascript and why I'm trying to circumvent using it whenever possible.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetillhoff&layout=compact&theme=material-palenight&exclude_repo=rahoff.enforge.de" alt="thetillhoff's most used languages" />
